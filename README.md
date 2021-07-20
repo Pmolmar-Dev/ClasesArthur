@@ -9,4 +9,4 @@ En este repositorio se van a encontrar los ejercicios realizados por Arthur para
 4. Algoritmia
 
 <hr>
-###### Pablo Molina Martinez (Pmolmar, Pmolmar-Dev)
+Pablo Molina Martinez (@Pmolmar, @Pmolmar-Dev)
